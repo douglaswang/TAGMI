@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<smile version="1.0" id="Network1" numsamples="1000" discsamples="10000">
+	<nodes>
+		<cpt id="I_labour_avail">
+			<state id="positive" />
+			<state id="negative" />
+			<probabilities>0.5 0.5</probabilities>
+		</cpt>
+		<cpt id="I_land_avail">
+			<state id="positive" />
+			<state id="negative" />
+			<probabilities>0.5 0.5</probabilities>
+		</cpt>
+		<cpt id="D_pop_dens">
+			<state id="low" />
+			<state id="med" />
+			<state id="high" />
+			<parents>I_land_avail</parents>
+			<probabilities>0.43241 0.23989 0.3277 0.12375 0.22307 0.65318</probabilities>
+		</cpt>
+		<cpt id="I_wealth">
+			<state id="positive" />
+			<state id="negative" />
+			<probabilities>0.5 0.5</probabilities>
+		</cpt>
+		<cpt id="I_credit_acc">
+			<state id="positive" />
+			<state id="negative" />
+			<probabilities>0.5 0.5</probabilities>
+		</cpt>
+		<cpt id="D_avail_MFI">
+			<state id="low" />
+			<state id="med" />
+			<state id="high" />
+			<parents>I_credit_acc</parents>
+			<probabilities>0.17534 0.53983 0.28483 0.29552 0.52257 0.18191</probabilities>
+		</cpt>
+		<cpt id="I_support">
+			<state id="positive" />
+			<state id="negative" />
+			<probabilities>0.5 0.5</probabilities>
+		</cpt>
+		<cpt id="I_org_cap">
+			<state id="positive" />
+			<state id="negative" />
+			<probabilities>0.5 0.5</probabilities>
+		</cpt>
+		<cpt id="D_numCBOs">
+			<state id="low" />
+			<state id="med" />
+			<state id="high" />
+			<parents>I_org_cap</parents>
+			<probabilities>0.12 0.24 0.64 0.54545 0.27273 0.18182</probabilities>
+		</cpt>
+		<cpt id="C_financial">
+			<state id="positive" />
+			<state id="negative" />
+			<parents>I_wealth I_credit_acc</parents>
+			<probabilities>0.88889 0.11111 0.5 0.5 0.5 0.5 0.11111 0.88889</probabilities>
+		</cpt>
+		<cpt id="PFC_financial">
+			<state id="positive" />
+			<state id="negative" />
+			<parents>C_financial</parents>
+			<probabilities>1 0 0.793701 0.206299</probabilities>
+		</cpt>
+		<cpt id="I_gen_health">
+			<state id="positive" />
+			<state id="negative" />
+			<probabilities>0.5 0.5</probabilities>
+		</cpt>
+		<cpt id="I_infrastructure">
+			<state id="positive" />
+			<state id="negative" />
+			<probabilities>0.5 0.5</probabilities>
+		</cpt>
+		<cpt id="D_wsafe">
+			<state id="low" />
+			<state id="med" />
+			<state id="high" />
+			<parents>I_gen_health I_infrastructure</parents>
+			<probabilities>0.03704 0.37037 0.59259 0.30769 0.38462 0.30769 0.30769 0.38462 0.30769 0.82051 0.12821 0.05128</probabilities>
+		</cpt>
+		<cpt id="D_work_pop">
+			<state id="low" />
+			<state id="med" />
+			<state id="high" />
+			<parents>I_labour_avail</parents>
+			<probabilities>0.10345 0.48276 0.41379 0.41379 0.48276 0.10345</probabilities>
+		</cpt>
+		<cpt id="D_g_ratio">
+			<state id="low" />
+			<state id="med" />
+			<state id="high" />
+			<parents>I_labour_avail</parents>
+			<probabilities>0.17638 0.35816 0.46546 0.46546 0.35816 0.17638</probabilities>
+		</cpt>
+		<cpt id="I_training">
+			<state id="positive" />
+			<state id="negative" />
+			<probabilities>0.5 0.5</probabilities>
+		</cpt>
+		<cpt id="I_water_acc">
+			<state id="positive" />
+			<state id="negative" />
+			<probabilities>0.5 0.5</probabilities>
+		</cpt>
+		<cpt id="I_water_avail">
+			<state id="positive" />
+			<state id="negative" />
+			<probabilities>0.5 0.5</probabilities>
+		</cpt>
+		<cpt id="I_market_acc">
+			<state id="positive" />
+			<state id="negative" />
+			<probabilities>0.5 0.5</probabilities>
+		</cpt>
+		<cpt id="D_poverty">
+			<state id="low" />
+			<state id="med" />
+			<state id="high" />
+			<parents>I_wealth I_market_acc</parents>
+			<probabilities>0.6678500000000001 0.25307 0.07908 0.30769 0.30769 0.38462 0.30769 0.30769 0.38462 0.0594 0.15677 0.78383</probabilities>
+		</cpt>
+		<cpt id="D_food_sec">
+			<state id="low" />
+			<state id="med" />
+			<state id="high" />
+			<parents>I_gen_health</parents>
+			<probabilities>0.16129 0.19355 0.64516 0.64516 0.19355 0.16129</probabilities>
+		</cpt>
+		<cpt id="D_HIV">
+			<state id="low" />
+			<state id="med" />
+			<state id="high" />
+			<parents>I_labour_avail</parents>
+			<probabilities>0.46128 0.18734 0.35138 0.17743 0.10922 0.71335</probabilities>
+		</cpt>
+		<cpt id="D_literacy">
+			<state id="low" />
+			<state id="med" />
+			<state id="high" />
+			<parents>I_training</parents>
+			<probabilities>0.13551 0.28353 0.58096 0.35936 0.30535 0.33529</probabilities>
+		</cpt>
+		<cpt id="C_human">
+			<state id="positive" />
+			<state id="negative" />
+			<parents>I_training I_labour_avail I_gen_health</parents>
+			<probabilities>0.97838 0.02162 0.84978 0.15022 0.7388 0.2612 0.2612 0.7388 0.7388 0.2612 0.2612 0.7388 0.15022 0.84978 0.02162 0.97838</probabilities>
+		</cpt>
+		<cpt id="PFC_human">
+			<state id="positive" />
+			<state id="negative" />
+			<parents>C_human</parents>
+			<probabilities>1 0 0.793701 0.206299</probabilities>
+		</cpt>
+		<cpt id="I_gender">
+			<state id="positive" />
+			<state id="negative" />
+			<probabilities>0.5 0.5</probabilities>
+		</cpt>
+		<cpt id="I_land_tenure">
+			<state id="positive" />
+			<state id="negative" />
+			<probabilities>0.5 0.5</probabilities>
+		</cpt>
+		<cpt id="C_social">
+			<state id="positive" />
+			<state id="negative" />
+			<parents>I_org_cap I_support I_land_tenure I_gender</parents>
+			<probabilities>0.9846200000000001 0.01538 0.88889 0.11111 0.88889 0.11111 0.5 0.5 0.88889 0.11111 0.5 0.5 0.5 0.5 0.11111 0.88889 0.88889 0.11111 0.5 0.5 0.5 0.5 0.11111 0.88889 0.5 0.5 0.11111 0.88889 0.11111 0.88889 0.01538 0.9846200000000001</probabilities>
+		</cpt>
+		<cpt id="PFC_social">
+			<state id="positive" />
+			<state id="negative" />
+			<parents>C_social</parents>
+			<probabilities>1 0 0.793701 0.206299</probabilities>
+		</cpt>
+		<cpt id="C_water_res">
+			<state id="positive" />
+			<state id="negative" />
+			<parents>I_water_avail I_water_acc</parents>
+			<probabilities>0.94118 0.05882 0.5 0.5 0.5 0.5 0.05882 0.94118</probabilities>
+		</cpt>
+		<cpt id="PFC_water_res">
+			<state id="positive" />
+			<state id="negative" />
+			<parents>C_water_res</parents>
+			<probabilities>1 0 0.464159 0.535841</probabilities>
+		</cpt>
+		<cpt id="C_physical">
+			<state id="positive" />
+			<state id="negative" />
+			<parents>I_infrastructure I_market_acc</parents>
+			<probabilities>0.91879 0.08121 0.58579 0.41421 0.41421 0.58579 0.08121 0.91879</probabilities>
+		</cpt>
+		<cpt id="PFC_physical">
+			<state id="positive" />
+			<state id="negative" />
+			<parents>C_physical</parents>
+			<probabilities>1 0 0.793701 0.206299</probabilities>
+		</cpt>
+		<cpt id="I_soil">
+			<state id="positive" />
+			<state id="negative" />
+			<probabilities>0.5 0.5</probabilities>
+		</cpt>
+		<cpt id="I_biomass">
+			<state id="positive" />
+			<state id="negative" />
+			<probabilities>0.5 0.5</probabilities>
+		</cpt>
+		<cpt id="I_weather_var">
+			<state id="positive" />
+			<state id="negative" />
+			<probabilities>0.5 0.5</probabilities>
+		</cpt>
+		<cpt id="C_natural">
+			<state id="positive" />
+			<state id="negative" />
+			<parents>I_weather_var I_land_avail I_soil I_biomass</parents>
+			<probabilities>0.99225 0.00775 0.88889 0.11111 0.88889 0.11111 0.33333 0.66667 0.88889 0.11111 0.33333 0.66667 0.33333 0.66667 0.0303 0.9697 0.9697 0.0303 0.66667 0.33333 0.66667 0.33333 0.11111 0.88889 0.66667 0.33333 0.11111 0.88889 0.11111 0.88889 0.00775 0.99225</probabilities>
+		</cpt>
+		<cpt id="PFC_natural">
+			<state id="positive" />
+			<state id="negative" />
+			<parents>C_natural</parents>
+			<probabilities>1 0 0.464159 0.535841</probabilities>
+		</cpt>
+		<cpt id="success">
+			<state id="yes" />
+			<state id="no" />
+			<parents>PFC_human PFC_financial PFC_social PFC_water_res PFC_physical PFC_natural</parents>
+			<probabilities>1 0 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1</probabilities>
+		</cpt>
+		<cpt id="D_femHH">
+			<state id="low" />
+			<state id="med" />
+			<state id="high" />
+			<parents>I_gender</parents>
+			<probabilities>0.50873 0.28778 0.20349 0.2679973200267997 0.3032069679303207 0.4287957120428796</probabilities>
+		</cpt>
+		<cpt id="D_own_land">
+			<state id="low" />
+			<state id="med" />
+			<state id="high" />
+			<parents>I_credit_acc I_land_tenure</parents>
+			<probabilities>0.1333313333133331 0.3333333333333333 0.5333353333533335 0.30769 0.38462 0.30769 0.30769 0.38462 0.30769 0.5333353333533335 0.3333333333333333 0.1333313333133332</probabilities>
+		</cpt>
+		<cpt id="D_dryspell">
+			<state id="low" />
+			<state id="med" />
+			<state id="high" />
+			<parents>I_weather_var</parents>
+			<probabilities>0.4667246672466725 0.3537135371353714 0.1795617956179562 0.1567215672156722 0.2067920679206792 0.6364863648636486</probabilities>
+		</cpt>
+		<cpt id="D_equipment">
+			<state id="low" />
+			<state id="med" />
+			<state id="high" />
+			<parents>I_infrastructure</parents>
+			<probabilities>0.10061 0.18774 0.71165 0.4337256627433725 0.2324276757232427 0.3338466615333847</probabilities>
+		</cpt>
+		<cpt id="D_prox_riv">
+			<state id="low" />
+			<state id="med" />
+			<state id="high" />
+			<parents>I_water_acc</parents>
+			<probabilities>0.36018 0.30883 0.33099 0.40936 0.30555 0.28509</probabilities>
+		</cpt>
+		<cpt id="D_MARmin">
+			<state id="low" />
+			<state id="med" />
+			<state id="high" />
+			<parents>I_water_avail</parents>
+			<probabilities>0.02139 0.94136 0.03725 0.23125 0.63593 0.13282</probabilities>
+		</cpt>
+		<cpt id="D_prox_rd">
+			<state id="low" />
+			<state id="med" />
+			<state id="high" />
+			<parents>I_infrastructure I_market_acc</parents>
+			<probabilities>0.05882 0.18824 0.7529400000000001 0.38462 0.30769 0.30769 0.38462 0.30769 0.30769 0.8 0.16 0.04</probabilities>
+		</cpt>
+		<cpt id="D_market">
+			<state id="low" />
+			<state id="med" />
+			<state id="high" />
+			<parents>I_market_acc</parents>
+			<probabilities>0.6087 0.26087 0.13043 0.16279 0.27907 0.55814</probabilities>
+		</cpt>
+		<cpt id="D_information">
+			<state id="low" />
+			<state id="med" />
+			<state id="high" />
+			<parents>I_support</parents>
+			<probabilities>0.0625 0.4375 0.5 0.30769 0.5384600000000001 0.15385</probabilities>
+		</cpt>
+		<cpt id="D_cattle_dens">
+			<state id="low" />
+			<state id="med" />
+			<state id="high" />
+			<parents>I_biomass</parents>
+			<probabilities>0.4287957120428796 0.3032069679303207 0.2679973200267998 0.20349 0.28778 0.50873</probabilities>
+		</cpt>
+		<cpt id="D_cropland">
+			<state id="low" />
+			<state id="med" />
+			<state id="high" />
+			<parents>I_land_avail</parents>
+			<probabilities>0.13043 0.26087 0.6087 0.55814 0.27907 0.16279</probabilities>
+		</cpt>
+		<cpt id="D_slope">
+			<state id="low" />
+			<state id="med" />
+			<state id="high" />
+			<parents>I_land_avail</parents>
+			<probabilities>0.03411 0.042 0.92389 0.15924 0.12935 0.71141</probabilities>
+		</cpt>
+		<cpt id="D_SOC">
+			<state id="low" />
+			<state id="med" />
+			<state id="high" />
+			<parents>I_soil</parents>
+			<probabilities>0.11327 0.32038 0.56635 0.60022 0.21221 0.18757</probabilities>
+		</cpt>
+		<cpt id="D_clay">
+			<state id="low" />
+			<state id="med" />
+			<state id="high" />
+			<parents>I_soil</parents>
+			<probabilities>0.17878 0.27097 0.55025 0.46138 0.3044 0.23422</probabilities>
+		</cpt>
+		<cpt id="D_bio_prod">
+			<state id="low" />
+			<state id="med" />
+			<state id="high" />
+			<parents>I_biomass</parents>
+			<probabilities>0.16772 0.4193 0.41298 0.49234 0.30771 0.19995</probabilities>
+		</cpt>
+		<cpt id="D_output_market">
+			<state id="low" />
+			<state id="med" />
+			<state id="high" />
+			<parents>I_market_acc</parents>
+			<probabilities>0.16129 0.19355 0.64516 0.64516 0.19355 0.16129</probabilities>
+		</cpt>
+	</nodes>
+	<extensions>
+		<genie version="1.0" app="GeNIe 2.0.3887.0" name="Network1" faultnameformat="nodestate">
+			<node id="I_gen_health">
+				<name>I_gen_health</name>
+				<interior color="9be6e6" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>447 314 525 362</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="I_labour_avail">
+				<name>I_labour_avail</name>
+				<interior color="9be6e6" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>468 232 574 286</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="success">
+				<name>success</name>
+				<interior color="33cccd" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>927 533 979 565</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="D_literacy">
+				<name>D_literacy</name>
+				<interior color="c6fdc9" />
+				<outline color="800080" width="2" />
+				<font color="000000" name="Arial" size="9" />
+				<position>658 81 730 129</position>
+				<barchart active="true" width="128" height="76" />
+			</node>
+			<node id="D_wsafe">
+				<name>D_wsafe</name>
+				<interior color="c6fdc9" />
+				<outline color="800080" width="2" />
+				<font color="000000" name="Arial" size="9" />
+				<position>279 325 351 373</position>
+				<barchart active="true" width="128" height="72" />
+			</node>
+			<node id="D_work_pop">
+				<name>D_work_pop</name>
+				<interior color="c6fdc9" />
+				<outline color="800080" width="2" />
+				<font color="000000" name="Arial" size="9" />
+				<position>489 133 561 181</position>
+				<barchart active="true" width="128" height="72" />
+			</node>
+			<node id="D_g_ratio">
+				<name>D_g_ratio</name>
+				<interior color="c6fdc9" />
+				<outline color="800080" width="2" />
+				<font color="000000" name="Arial" size="9" />
+				<position>431 49 503 97</position>
+				<barchart active="true" width="128" height="72" />
+			</node>
+			<node id="D_food_sec">
+				<name>D_food_sec</name>
+				<interior color="c6fdc9" />
+				<outline color="800080" width="2" />
+				<font color="000000" name="Arial" size="9" />
+				<position>293 237 365 285</position>
+				<barchart active="true" width="128" height="72" />
+			</node>
+			<node id="D_HIV">
+				<name>D_HIV</name>
+				<interior color="c6fdc9" />
+				<outline color="800080" width="2" />
+				<font color="000000" name="Arial" size="9" />
+				<position>345 127 415 176</position>
+				<barchart active="true" width="128" height="72" />
+			</node>
+			<node id="I_training">
+				<name>I_training</name>
+				<interior color="9be6e6" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>648 212 730 263</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="PFC_human">
+				<name>PFC_human</name>
+				<interior color="fec2f8" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>755 434 819 474</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="C_human">
+				<name>C_human</name>
+				<interior color="ffcc00" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>663 331 731 373</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="D_poverty">
+				<name>D_poverty</name>
+				<interior color="c6fdc9" />
+				<outline color="800000" width="2" />
+				<font color="000000" name="Arial" size="9" />
+				<position>863 92 935 140</position>
+				<barchart active="true" width="128" height="72" />
+			</node>
+			<node id="I_credit_acc">
+				<name>I_credit_acc</name>
+				<interior color="9be6e6" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>1027 202 1105 250</position>
+				<barchart active="true" width="129" height="63" />
+			</node>
+			<node id="I_wealth">
+				<name>I_wealth</name>
+				<interior color="9be6e6" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>893 209 955 251</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="PFC_financial">
+				<name>PFC_financial</name>
+				<interior color="fec2f8" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>921 409 992 453</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="C_financial">
+				<name>C_financial</name>
+				<interior color="ffcc00" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>916 310 1009 368</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="D_femHH">
+				<name>D_femHH</name>
+				<interior color="c6fdc9" />
+				<outline color="959500" width="2" />
+				<font color="000000" name="Arial" size="9" />
+				<position>1567 395 1639 443</position>
+				<barchart active="true" width="128" height="79" />
+			</node>
+			<node id="D_own_land">
+				<name>D_own_land</name>
+				<interior color="c6fdc9" />
+				<outline color="959500" width="2" />
+				<font color="000000" name="Arial" size="9" />
+				<position>1552 286 1637 337</position>
+				<barchart active="true" width="128" height="76" />
+			</node>
+			<node id="PFC_social">
+				<name>PFC_social</name>
+				<interior color="fec2f8" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>1097 445 1169 490</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="C_social">
+				<name>C_social</name>
+				<interior color="ffcc00" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>1163 363 1244 416</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="I_org_cap">
+				<name>I_org_cap</name>
+				<interior color="9be6e6" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>1201 258 1284 314</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="I_support">
+				<name>I_support</name>
+				<interior color="9be6e6" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>1352 274 1419 323</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="I_gender">
+				<name>I_gender</name>
+				<interior color="9be6e6" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>1379 419 1449 469</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="D_prox_riv">
+				<name>D_prox_riv</name>
+				<interior color="c6fdc9" />
+				<outline color="0000ff" width="2" />
+				<font color="000000" name="Arial" size="9" />
+				<position>1627 597 1712 648</position>
+				<barchart active="true" width="128" height="76" />
+			</node>
+			<node id="PFC_water_res">
+				<name>PFC_water_res</name>
+				<interior color="fec2f8" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>1096 555 1178 607</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="C_water_res">
+				<name>C_water_res</name>
+				<interior color="ffcc00" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>1248 565 1330 623</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="D_MARmin">
+				<name>D_MARmin</name>
+				<interior color="c6fdc9" />
+				<outline color="0000ff" width="2" />
+				<font color="000000" name="Arial" size="9" />
+				<position>1628 503 1700 551</position>
+				<barchart active="true" width="128" height="76" />
+			</node>
+			<node id="I_water_acc">
+				<name>I_water_acc</name>
+				<interior color="9be6e6" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>1464 598 1539 654</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="I_water_avail">
+				<name>I_water_avail</name>
+				<interior color="9be6e6" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>1449 516 1523 563</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="D_prox_rd">
+				<name>D_prox_rd</name>
+				<interior color="c6fdc9" />
+				<outline color="808080" width="2" />
+				<font color="000000" name="Arial" size="9" />
+				<position>200 545 284 598</position>
+				<barchart active="true" width="128" height="76" />
+			</node>
+			<node id="D_market">
+				<name>D_market</name>
+				<interior color="c6fdc9" />
+				<outline color="808080" width="2" />
+				<font color="000000" name="Arial" size="9" />
+				<position>219 640 297 692</position>
+				<barchart active="true" width="128" height="76" />
+			</node>
+			<node id="PFC_physical">
+				<name>PFC_physical</name>
+				<interior color="fec2f8" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>740 528 819 577</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="C_physical">
+				<name>C_physical</name>
+				<interior color="ffcc00" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>570 529 650 583</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="I_market_acc">
+				<name>I_market_acc</name>
+				<interior color="9be6e6" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>396 579 475 634</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="I_infrastructure">
+				<name>I_infrastructure</name>
+				<interior color="9be6e6" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>398 492 480 543</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="D_cattle_dens">
+				<name>D_cattle_dens</name>
+				<interior color="c6fdc9" />
+				<outline color="008000" width="2" />
+				<font color="000000" name="Arial" size="9" />
+				<position>428 738 500 786</position>
+				<barchart active="true" width="128" height="76" />
+			</node>
+			<node id="D_cropland">
+				<name>D_cropland</name>
+				<interior color="c6fdc9" />
+				<outline color="008000" width="2" />
+				<font color="000000" name="Arial" size="9" />
+				<position>773 946 854 1000</position>
+				<barchart active="true" width="128" height="72" />
+			</node>
+			<node id="D_slope">
+				<name>D_slope</name>
+				<interior color="c6fdc9" />
+				<outline color="008000" width="2" />
+				<font color="000000" name="Arial" size="9" />
+				<position>917 948 995 1005</position>
+				<barchart active="true" width="128" height="72" />
+			</node>
+			<node id="PFC_natural">
+				<name>PFC_natural</name>
+				<interior color="fec2f8" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>899 637 972 683</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="C_natural">
+				<name>C_natural</name>
+				<interior color="ffcc00" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>844 726 924 778</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="D_SOC">
+				<name>D_SOC</name>
+				<interior color="c6fdc9" />
+				<outline color="008000" width="2" />
+				<font color="000000" name="Arial" size="9" />
+				<position>441 941 513 989</position>
+				<barchart active="true" width="128" height="76" />
+			</node>
+			<node id="I_soil">
+				<name>I_soil</name>
+				<interior color="9be6e6" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>690 834 774 885</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="I_biomass">
+				<name>I_biomass</name>
+				<interior color="9be6e6" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>634 734 712 787</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="I_land_avail">
+				<name>I_land_avail</name>
+				<interior color="9be6e6" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>864 850 945 905</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="I_weather_var">
+				<name>I_weather_var</name>
+				<interior color="9be6e6" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>1023 823 1108 877</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="D_pop_dens">
+				<name>D_pop_dens</name>
+				<interior color="c6fdc9" />
+				<outline color="008000" width="2" />
+				<font color="000000" name="Arial" size="9" />
+				<position>921 1031 1001 1085</position>
+				<barchart active="true" width="128" height="79" />
+			</node>
+			<node id="D_avail_MFI">
+				<name>D_avail_MFI</name>
+				<interior color="c6fdc9" />
+				<outline color="800000" width="2" />
+				<font color="000000" name="Arial" size="9" />
+				<position>1039 86 1128 140</position>
+				<barchart active="true" width="128" height="76" />
+			</node>
+			<node id="D_numCBOs">
+				<name>D_numCBOs</name>
+				<interior color="c6fdc9" />
+				<outline color="959500" width="2" />
+				<font color="000000" name="Arial" size="9" />
+				<position>1224 155 1296 203</position>
+				<barchart active="true" width="128" height="76" />
+			</node>
+			<node id="D_information">
+				<name>D_information</name>
+				<interior color="c6fdc9" />
+				<outline color="959500" width="2" />
+				<font color="000000" name="Arial" size="9" />
+				<position>1408 157 1495 213</position>
+				<barchart active="true" width="128" height="76" />
+			</node>
+			<node id="D_dryspell">
+				<name>D_dryspell</name>
+				<interior color="c6fdc9" />
+				<outline color="008000" width="2" />
+				<font color="000000" name="Arial" size="9" />
+				<position>1084 937 1166 993</position>
+				<barchart active="true" width="128" height="72" />
+			</node>
+			<node id="D_equipment">
+				<name>D_equipment</name>
+				<interior color="c6fdc9" />
+				<outline color="808080" width="2" />
+				<font color="000000" name="Arial" size="9" />
+				<position>200 440 288 492</position>
+				<barchart active="true" width="128" height="76" />
+			</node>
+			<node id="D_clay">
+				<name>D_clay</name>
+				<interior color="c6fdc9" />
+				<outline color="008000" width="2" />
+				<font color="000000" name="Arial" size="9" />
+				<position>600 932 672 980</position>
+				<barchart active="true" width="128" height="76" />
+			</node>
+			<node id="D_bio_prod">
+				<name>D_bio_prod</name>
+				<interior color="c6fdc9" />
+				<outline color="008000" width="2" />
+				<font color="000000" name="Arial" size="9" />
+				<position>458 830 530 878</position>
+				<barchart active="true" width="128" height="76" />
+			</node>
+			<node id="I_land_tenure">
+				<name>I_land_tenure</name>
+				<interior color="9be6e6" />
+				<outline color="000080" />
+				<font color="000000" name="Arial" size="9" />
+				<position>1373 347 1443 397</position>
+				<barchart active="true" width="128" height="64" />
+			</node>
+			<node id="D_output_market">
+				<name>D_output_market</name>
+				<interior color="c6fdc9" />
+				<outline color="808080" width="2" />
+				<font color="000000" name="Arial" size="9" />
+				<position>63 623 141 675</position>
+				<barchart active="true" width="128" height="72" />
+			</node>
+		</genie>
+	</extensions>
+</smile>

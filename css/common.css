@@ -1,0 +1,101 @@
+/* 
+    Document   : common
+    Created on : 12-Apr-2013, 12:10:00
+    Author     : Douglas Wang (douglas.wang@york.ac.uk)
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* Top Padding for responsive navbar-top-fixed */
+body { /* Add top padding for full-width layout */
+    padding-top: 40px;
+}
+
+@media (max-width: 979px) {
+    body { /* Remove top padding when top navbar goes static */
+        padding-top: 0;
+    }
+
+}
+
+div#map-div{
+    height: 600px;
+}
+
+table#legend-table tr td{
+    text-align: center;
+    vertical-align: middle;
+}
+
+#left-nav > ul {
+    width: 220px;
+    padding-top: 40px;
+    margin:30px 0 0;
+    padding:0;
+}
+
+#left-nav > ul > li > a {
+    border:1px solid #E5E5E5;
+    display:block;
+    margin:0 0 -1px;
+    padding:8px 14px;
+}
+
+#left-nav > ul > li > ul > li {
+    border-left: 1px solid #E5E5E5;
+    border-right: 1px solid #E5E5E5;
+    display:block;
+    margin:0 0 -1px;
+    padding:8px 14px;
+}
+
+#left-nav > ul > li > ul{
+    margin:0;
+    padding:0;
+    border-bottom: 1px solid #E5E5E5;
+}
+#left-nav > ul > li > ul > li > a{
+    padding-left:25px;
+}
+.page-header{
+    margin-bottom: 10px;
+    margin-top: 30px;
+}
+img#awm-banner{
+    max-width: 100%;
+    height: auto !important;
+    width: auto\9; /* ie8 */
+}
+
+@media (max-width: 979px) {
+    #left-nav > ul.affix {
+        position: static;
+        width: auto;
+        top: 0;
+    }
+}
+
+.table-borderless td, .table-borderless th{ 
+    border: 0 !important
+}
+
+#table-project-partner td{
+    vertical-align: bottom;
+}
+
+#table-project-partner td.logo{
+    width: 100px;
+}
+
+#table-project-partner td.logo img{
+    width: 100%;
+    height: auto;
+}
+
+.fixed-top-anchor{
+    padding-top: 45px; margin-top: -45px;
+}
+
+table.form-table input, table.form-table select, table.form-table textarea {
+    margin-bottom:0;
+}

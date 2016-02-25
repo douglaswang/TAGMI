@@ -1,0 +1,1601 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CPWF Targeting and Outscaling\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-02 15:46-0000\n"
+"PO-Revision-Date: 2013-09-02 15:47-0000\n"
+"Last-Translator: Joanne Morris <joanne.morris@york.ac.uk>\n"
+"Language-Team: Eric Kemp-Benedict, Amanda Fencl <eric.kemp-benedict@sei-"
+"international.org>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: /home/erickb/NetBeansProjects/cpwfoutscaling/"
+"targeting_outscaling_tool/\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: /home/douglas/Dropbox/www/targoutscaling\n"
+"X-Poedit-SearchPath-1: /home/erickb/NetBeansProjects/cpwfoutscaling/"
+"targeting_outscaling_tool/l18n\n"
+"X-Poedit-SearchPath-2: /home/erickb/NetBeansProjects/cpwfoutscaling/"
+"targeting_outscaling_tool\n"
+"X-Poedit-SearchPath-3: C:\\Users\\Joanne\\Dropbox\\targoutscaling\n"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:21
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:27
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:21
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:21
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:96
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:31
+msgid "Targeting AGwater Management Interventions"
+msgstr ""
+"Le Ciblage et la Dissémination des Interventions Réussies de Gestion de "
+"l’Eau Agricole"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:44
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:61
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:38
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:37
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:65
+msgid "TAGMI"
+msgstr "TAGMI"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:47
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:64
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:41
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:40
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:68
+msgid "Home"
+msgstr "Accueil"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:50
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:67
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:44
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:43
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:71
+msgid "Tool"
+msgstr "Outil"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:54
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:144
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:71
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:48
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:47
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:75
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:159
+msgid "Volta Basin"
+msgstr "Bassin de la Volta"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:55
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:72
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:138
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:49
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:48
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:76
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:160
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:56
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:73
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:139
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:50
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:49
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:77
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:161
+msgid "Ghana"
+msgstr "Ghana"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:57
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:147
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:74
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:51
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:50
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:78
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:163
+msgid "Limpopo Basin"
+msgstr "Bassin du Limpopo"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:58
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:75
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:142
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:52
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:51
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:79
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:164
+msgid "Botswana"
+msgstr "Botswana"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:59
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:76
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:143
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:53
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:52
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:80
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:165
+msgid "Mozambique"
+msgstr "Mozambique"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:60
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:77
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:140
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:54
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:53
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:81
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:166
+msgid "South Africa"
+msgstr "South Africa"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:61
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:78
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:141
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:55
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:54
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:82
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:167
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:66
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:83
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:60
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:59
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:87
+msgid "Documentation"
+msgstr "Documentation"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:70
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:87
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:64
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:99
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:63
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:91
+msgid "TAGMI documentation"
+msgstr "Documentation sur le TAGMI"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:71
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:88
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:65
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:123
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:64
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:92
+msgid "Project outputs"
+msgstr "Documentation du projet"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:72
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:89
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:66
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:163
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:65
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:93
+msgid "Bayes References"
+msgstr "Références sur Bayes"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:77
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:94
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:71
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:70
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:98
+msgid "About"
+msgstr "A propos"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:81
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:107
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:98
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:75
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:74
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:102
+msgid "Project Context"
+msgstr "Du context du projet"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:82
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:121
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:262
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:99
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:76
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:75
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:103
+msgid "Consultation process"
+msgstr "Du processus de consultation"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:83
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:134
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:307
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:100
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:77
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:76
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:104
+msgid "Bayesian Network Modeling"
+msgstr "De la modélisation du réseau Bayésien"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:84
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:140
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:343
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:101
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:78
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:77
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:105
+msgid "The Basins"
+msgstr "Des bassins"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:85
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:154
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:403
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:102
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:79
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:78
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:106
+msgid "The AWM Technologies"
+msgstr "De la technologie GEA"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:86
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:171
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:175
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:103
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:80
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:79
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:107
+msgid "Project Team"
+msgstr "De l’équipe"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:91
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:108
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:85
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:84
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:112
+msgid "Language:"
+msgstr "Langues"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:111
+msgid "CPWF Basin Development Challenges"
+msgstr "Des programmes de défis pour le développement des bassins (CWPF-BDC)"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:114
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:224
+msgid "V1 and L1 Targeting and scaling out"
+msgstr "V1 et L1 Ciblage et Dissémination "
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:125
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:278
+msgid "Success and failure of AWM interventions"
+msgstr "Le succès et l'échec des interventions de Gestion de l’Eau Agricole"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:128
+msgid "Detailed narratives of successful AWM interventions"
+msgstr ""
+"Les récits détaillé des interventions réussies de Gestion de l’Eau Agricole"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:158
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:410
+msgid "Conservation Agriculture"
+msgstr "Agriculture de conservation"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:161
+msgid "Small-Scale Irrigation"
+msgstr "l’Irrigation à petite échelle"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:164
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:447
+msgid "Small Reservoirs"
+msgstr "Petits Barrages"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:178
+msgid "Volta Basin Partners"
+msgstr "Partenaires de recherche dans le bassin de la Volta"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:181
+msgid "Limpopo Basin Partners"
+msgstr "Partenaires de recherche dans le bassin de la Limpopo"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:190
+msgid "The Project Context"
+msgstr "Du Context du Projet"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:192
+msgid "The Challenge Programme for Water and Food Basin Development Challenges"
+msgstr ""
+"Les Programmes de Défis pour le Développement des Bassins entrepris par le "
+"Challenge Program du CGIAR (CWPF-BDC)"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:193
+msgid ""
+"Since its 2002 launch, the CGIAR Challenge Program on Water and Food \n"
+"(<a href=\"http://waterandfood.org/\" target=\"_blank\">CPWF</a>) \n"
+"has become a comprehensive global research effort on water and food. More "
+"than 10 years \n"
+"of CPWF research includes 100+ research-for-development projects and the "
+"involvement \n"
+"of 400+ partners in international river basins. More than 1.5 billion people "
+"live \n"
+"in CPWF basins, amongst whom half of the poorest people on Earth.  In <a "
+"href=\"http://waterandfood.org/phase-1-results-update/\" target=\"_blank"
+"\">Phase 1</a>\n"
+"(2002-2007), projects focussed on discovering successful water-related "
+"strategies for improving food \n"
+"security and reducing poverty. CPWF Phase 2 builds on prior work, and is "
+"organised into \n"
+"integrated research programmes involving 5+ projects and partners to address "
+"Basin-specific Development Challenges (BDC):"
+msgstr ""
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:204
+msgid "Volta BDC"
+msgstr "Volta BDC"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:205
+msgid ""
+"Strengthen integrated management of rainwater and small reservoirs so that "
+"they can be\n"
+"used equitably and for multiple purposes (<a href=\"http://waterandfood.org/"
+"basins/volta/\" target=\"_blank\">http://waterandfood.org/basins/volta/</a>)"
+msgstr ""
+" Renforcer la gestion intégrée des eaux pluviales et des petits barrages "
+"pour l'utilisation équitable et pour des usages multiples (<a href=\"http://"
+"waterandfood.org/basins/volta/\" target=\"_blank\">http://waterandfood.org/"
+"basins/volta/</a>)"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:207
+msgid "V1 Targeting and scaling out"
+msgstr "Projet V1 : Ciblage et dissémination"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:208
+msgid "V2 Management of rainwater for crop livestock and agroecosystems"
+msgstr ""
+"Projet V2 : Gestion intégrée des eaux pluviales pour les agro-écosystèmes "
+"agro-pastoraux"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:209
+msgid "V3 Management of small reservoirs"
+msgstr "Projet V3 : Gestion des petits barrages à usages multiples"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:210
+msgid "V4 Governance of rainwater and small reservoirs"
+msgstr ""
+"Projet V4 : Gestion des sous bassins et gouvernance des eaux pluviales et "
+"des petits barrages"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:211
+msgid "V5 Coordination and enabling change"
+msgstr "Projet V5 : Coordination et Changement"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:214
+msgid "Limpopo BDC"
+msgstr "Limpopo BDC"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:215
+msgid ""
+"To improve smallholder productivity and livelihoods and reduce livelihood "
+"risk\n"
+"through integrated water resource management (<a href=\"http://waterandfood."
+"org/basins/limpopo-2/\" target=\"_blank\">http://waterandfood.org/basins/"
+"limpopo-2/</a>)"
+msgstr ""
+"Améliorer la productivité et les moyens d'existence pour les petits "
+"agriculteurs et reduire les risques en utilisant  la gestion intégrée des "
+"ressources en eau (<a href=\"http://waterandfood.org/basins/limpopo-2/\" "
+"target=\"_blank\">http://waterandfood.org/basins/limpopo-2/</a>)"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:217
+msgid "L1 Targeting and scaling out"
+msgstr "Projet L1 : Ciblage et dissémination"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:218
+msgid "L2 Small-scale infrastructure"
+msgstr "Projet L2: l'Infrastructure à petite échelle"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:219
+msgid "L3 Farm systems and risk management"
+msgstr "Projet L3: Les systèmes agricoles et la gestion des risques"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:220
+msgid "L4 Water governance"
+msgstr "Projet L4: La Gouvernance de l'eau"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:221
+msgid "L5 Learning for innovation and adaptive management"
+msgstr "Projet L5: Coordination et changement"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:226
+msgid ""
+"Numerous pilot studies and case studies in the \n"
+"<b>Volta Basin</b> have evaluated practices, methods, and tools that could "
+"prove \n"
+"beneficial to others, both within the basin and outside of it. However, the "
+"question \n"
+"whether an intervention successfully applied in one location has a "
+"reasonable chance of \n"
+"success at any other location remains extremely difficult to answer. A "
+"consistent finding \n"
+"in pilot studies is that detailed characteristics of the study location – "
+"economic, \n"
+"biophysical, institutional, and cultural –all have essential roles in the "
+"eventual \n"
+"success or failure of achieving a successful land and water management "
+"outcomes. \n"
+"For out-scaling of initiatives it is impractical to collect detailed "
+"information at \n"
+"every potential site where an agricultural land and water management (AWM) "
+"intervention \n"
+"might be introduced. This project starts with the premise that, while "
+"certainty is unobtainable, \n"
+"degrees of certainty are both obtainable, using available information in a "
+"systematic way, and useful."
+msgstr ""
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:240
+msgid ""
+"Despite hosting some of the most developed sub Saharan countries, \n"
+"a majority of rural smallholder farmers in the <b>Limpopo basin</b> still "
+"live in poverty. \n"
+"The challenge of low and highly variable rainfall together with inadequate "
+"technology transfers, \n"
+"inadequate policy and investment context all act to disable successful "
+"transitions out of poverty. \n"
+"The CPWF Phase I identified several opportunities to manage rainfall in more "
+"efficient and productive \n"
+"manners at field to basin scales. The challenge of successful targeting and "
+"scaling out is still a key \n"
+"research and development area to contribute towards the Limpopo development "
+"challenges with opportunities \n"
+"to enable transformations of rural livelihoods at a greater scale."
+msgstr ""
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:251
+msgid ""
+"The CPWF Project V1 and L1 projects have thus \n"
+"developed this web-based \"decision support\" targeting and scaling out tool "
+"to map \n"
+"the likelihood that a given AWM intervention will be successful in given "
+"locations. \n"
+"The tool is aimed at non-expert users who could use it to identify likely "
+"sites \n"
+"where introducing AWM interventions for smallholder farming systems are "
+"likely to succeed."
+msgstr ""
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:264
+msgid ""
+"As the convening institution, the Stockholm Environment Institute, \n"
+"with partners, led the development of TAGMI through a series of national and "
+"local consultations in \n"
+"Ghana, Burkina Faso, and with representatives of all four basin countries "
+"attending meetings \n"
+"in Zimbabwe and South Africa in 2011 and 2012. The first consultation in "
+"2011 was aimed at \n"
+"identifying successful AWM cases in the country and region and identifying "
+"factors and \n"
+"contexts that contributed and/or hindered outscaling of AWM technologies "
+"based on known \n"
+"examples of successful and unsuccessful outscaling in the respective basin. "
+"In the second \n"
+"consultation, which took place in 2012, the aim was to get feedback on the "
+"model. Local \n"
+"partners and stakeholders discussed the relations between factors and "
+"indicators, and \n"
+"the importance to the likelihood of success of an AWM intervention. The "
+"Bayesian Network Model, \n"
+"which informs the web-tool’s map display output, is a combination of local, "
+"national and regional \n"
+"datasets with the expert input of our Basin project partners. The final "
+"engagements in the \n"
+"region as part of this project took place in July and August 2013."
+msgstr ""
+"En tant qu’institution coordinatrice, l’Institut de Stockholm pour "
+"l'environnement (SEI) avec ses partenaires de recherché a dirigé les travaux "
+"de développement du TAGMI à travers une série de rencontres de concertation "
+"nationales et locales dans les pays des Bassins en 2011 et 2012 (Volta: au "
+"Ghana et Burkina Faso; Limpopo: les représentants pour tous les quatre pays "
+"du Bassin a rencontré au Zimbabwe et en Afrique du Sud).  Les premières "
+"rencontres de concertation en 2011 ont l'intention d’identifier dans le pays "
+"les interventions réussies de GEA.  Les participants aux consultations ont "
+"été invité à décrire comment et à quel point des facteurs variés contribuent "
+"au succès ou l’échec des interventions de GEA. Les deuxièmes rencontres, en "
+"2012, ont l’intention de ramasser les réactions au modèle. Le Modèle de "
+"réseau Bayésien calculent la probabilité de succès en utilisant des "
+"relations probabilistes formulées à partir des réactions des participants. "
+"Le modèle, à partir duquel les résultats de l’outil Web sont produits, est "
+"une combinaison de données nationales et régionales ; il contient également "
+"les opinions des experts issus de nos partenaires de projet dans le bassin.  "
+"L’implication pour la dernière fois de nos parties prenantes dans cet effort "
+"ont eu lieu en août 2013."
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:280
+msgid ""
+"Experts identified a range of technologies from rainfed \n"
+"to full irrigation. However, there was no obvious pattern of success or "
+"failure of interventions \n"
+"across this AWM technology gradient. Both rainfed and full irrigation "
+"interventions were \n"
+"referred to as successful or failed depending on the context."
+msgstr ""
+"Les participants aux consultations ont identifié une gamme de technologies, "
+"allant du spectre des technologies de GEA basées sur les eaux pluviales aux "
+"systèmes d’irrigation complète utilisés dans les bassins de Limpopo et de la "
+"Volta. Cependant, ils sont conscients des cas où des interventions de GEA "
+"ont été qualifiées de succès dans certaines localités mais considérées comme "
+"un échec dans d’autres."
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:286
+msgid ""
+"An analysis of the criteria used to identify the success or \n"
+"failure of an intervention showed that in all four countries the success of "
+"AWM cases was \n"
+"especially due to factors not related to natural, physical, human, social, "
+"or financial \n"
+"aspects. More important for the success or failure of an intervention were "
+"factors related \n"
+"to project implementation, process and participation."
+msgstr ""
+"Il résulte des consultations auprès des experts dans les bassins de Limpopo "
+"et de la Volta que les interventions réussies de GEA sont celles ayant eu "
+"un  impact positif sur le bien être des agriculteurs et qui ont été adoptées "
+"et utilisées par ceux-ci  pendant au moins deux ans après la fin des "
+"interventions. Un certain nombre de facteurs influencent le succès des "
+"interventions de GEA. Par exemple, les participants ont mentionné les "
+"caractéristiques biophysiques d’une localité, les conditions financières des "
+"individus ou communautés ciblés, et les réseaux de marché. Les consultations "
+"ont révélé que les facteurs les plus importants ayant une incidence sur "
+"l’adoption effective d’une technologie ont trait aux facteurs sociaux et "
+"institutionnels. Les facteurs de mise en œuvre des projets sont tout aussi "
+"critiques : l’appropriation par la communauté, l’implication des parties "
+"prenantes dès le départ par la structure de mise en œuvre et une demande "
+"claire de la technologie proposée. En outre, l’intervention doit avoir des "
+"objectifs clairs et proposer une technologie conçue de manière appropriée."
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:293
+msgid "Detailed narratives of successful AWM interventions "
+msgstr ""
+"Les récits détaillé des interventions réussies de Gestion de l’Eau Agricole"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:295
+msgid ""
+"In addition to these three rounds of consultation, \n"
+"the project partners Waternet, Witwatersrand University, INERA and SARI "
+"collected more detailed \n"
+"information about successful AWM interventions in their respective "
+"countries. They used \n"
+"a methodology that combines maps and participation in focus groups "
+"(Participatory GIS) \n"
+"to collect a narrative of project implementation and enabling factors that "
+"had resulted \n"
+"in a successful AWM intervention. Stakeholders at district level "
+"participated in these \n"
+"events and their stories were complemented by community level narratives. "
+msgstr ""
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:313
+msgid ""
+"The Bayesian Model calculates a desired outcome, \n"
+"<b>'Success'</b>, which is the likelihood that an AWM technology introduced "
+"in a target \n"
+"community will still be in use 2 years after the intervention project has "
+"ended. \n"
+"Based on participants' discussions, and using the DFID Sustainable "
+"Livelihood Framework \n"
+"(DFID, 1999), 'Success' is conditional on adequate levels of 5 <b>capitals</"
+"b>: Human, \n"
+"Social, Financial, Physical and Natural. Water resources are included as a "
+"separate 6<sup>th</sup> \n"
+"capital given its centrality to AWM. Each <b>capital</b> comprises 2-4 key "
+"<b>factors</b> \n"
+"(e.g. Human capital is a combination of <b>Labour availability</b>, "
+"<b>Skills</b>, and <b>Health</b>). \n"
+"Each <b>factor</b> is described by 1-3 <b>data variables</b>, which are the "
+"foundation of the model \n"
+"(e.g. <b>Labour availability</b> is indicated by the relative size of the "
+"<b>working age population</b> \n"
+"and the <b>gender ratio</b> in the population)."
+msgstr ""
+"Le Modèle bayésien calcule un résultat souhaité, le <b>« succès »</b>, qui "
+"est la probabilité qu’une intervention technologique de GEA introduite dans "
+"une communauté cible sera encore utilisée deux ans après la fin de "
+"l’intervention du projet (voir le noeud central, Figure 4). En se basant sur "
+"les discussions des  participants et en utilisant le Cadre d’analyse des "
+"moyens de subsistance durables du Department for International Development "
+"(Agence pour le développement international) du Royaume –Uni (DFID, 1999), "
+"on peut dire que le succès est conditionnel aux niveaux adéquats de cinq "
+"<b>capitaux</b> : Humain, Social, Financier, Physique et Naturel. Les "
+"ressources humaines sont incorporées séparément comme 6<sup>ème</sup> "
+"capital au regard de leur importance pour la GEA. Chaque <b>capital</b> "
+"comprend deux à quatre <b>facteurs</b> (par exemple, le capital humain est "
+"la combinaison de <b>la Disponibilité de la main d’oeuvre</b>, "
+"<b>Compétences</b>, et <b>Santé</b>). Chaque <b>facteur</b> est décrit par "
+"une à trois <b>données variables</b> qui constituent le fondement du modèle "
+"(par exemple, <b>la Disponibilité de la main d’oeuvre</b> est indiquée par "
+"la taille relative de <b>la population active</b> et du <b>ratio hommes/"
+"femmes</b> dans la population). "
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:328
+msgid ""
+"The <b>linking arrows</b> convey the conditional probabilities \n"
+"of how each node in the network influences the presence of the next node. "
+"The model \n"
+"calculates the probability that the <b>factor</b> is present given knowledge "
+"about \n"
+"the state of its <b>data variable</b> (high, medium or low), then the "
+"probability \n"
+"that the <b>capital</b> is present given the calculated state of its "
+"<b>factors</b>, then the \n"
+"probability that <b>Success</b> is present given the calculated state of all "
+"<b>capitals</b>. \n"
+"A similar application of Bayesian network modelling to analyse the "
+"likelihood of \n"
+"water poverty is explained in detail in Kemp-Benedict et al. (2009)."
+msgstr ""
+"Les <b>flèches de connexion</b> véhiculent les probabilités conditionnelles "
+"qui déterminent comment chaque noeud dans le réseau influence la présence du "
+"prochain noeud. Le modèle calcule la probabilité que <b>le facteur</b> est "
+"présent en fonction des connaissances sur l’état de sa <b>donnée variable</"
+"b> (élevé, moyen, bas), ensuite la probabilité que <b>le capital</b> est "
+"présent en fonction de l’état calculé de <b>ses facteurs</b>, ensuite la "
+"probabilité que <b>le succès</b> est présent en fonction de l’état calculé "
+"de tous <b>les capitaux</b>. Une approche similaire de modélisation de "
+"réseau bayésien pour analyser la probabilité de la pauvreté de l’eau est "
+"expliquée en détail par Kemp-Benedict et al. (2009)."
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:347
+msgid "The Volta Basin"
+msgstr "Bassin de la Volta"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:349
+#, php-format
+msgid ""
+"The Volta Basin has a surface area of 407,000 km<sup>2</sup>, \n"
+"covering parts of Burkina Faso, Ghana, Benin, Cote d'Ivoire, Mali and Togo. "
+"The TAGMI for the Volta Basin \n"
+"covers Northern Ghana and Burkina Faso, which collectively represent 85% of "
+"the basin. \n"
+"The basin's farmers, some of the poorest in the world, generally rely on "
+"rainfed agriculture. \n"
+"Annual average rainfall distribution ranges from 2000mm in the south to "
+"500mm in the north. \n"
+"Potential evaporation rates range from 1500 mm in the south to over 2500 mm "
+"in the north, \n"
+"meaning that less than 10% of rainfall is available for river flow (<a "
+"href='http://www.glowa-volta.de/volta_basin.html' target='_blank'>GLOWA "
+"2013</a>). \n"
+"Even when rainfall is adequate for cropping, its uneven distribution leads "
+"to a high risk of crop loss; \n"
+"moreover, the lack of incentives means a situation where farmers are "
+"reluctant to \n"
+"invest in agriculture and water management. Climate change is making already "
+"variable \n"
+"rainfall less reliable. Farmers must have access to reliable water supplies. "
+"Small reservoirs, \n"
+"locally maintained and requiring no recurrent energy input are a sustainable "
+"supply option (<a href='http://waterandfood.org/basins/volta/' "
+"target='_blank'>CPWF 2013</a>). \n"
+"The most significant hydrological features is Lake Volta, created post-"
+"construction of the Akosombo Dam for hydropower, \n"
+"which is the second largest man-made lake in the world. The dam also "
+"generates hydroelectricity, ~80% of \n"
+"Ghana's power production, and hosts an important small-scale fishery "
+"industry (<a href='http://awm-solutions.iwmi.org/?reload' "
+"target='_blank'>AgWater Solutions 2012</a>). \n"
+"<a href='#'>Read More</a>"
+msgstr ""
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:377
+msgid "The Limpopo Basin"
+msgstr "Bassin du Limpopo"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:379
+msgid ""
+"The Limpopo Basin has a surface area 408 000 km<sup>2</sup>, \n"
+"covering parts of Botswana, South Africa, Zimbabwe and Mozambique*.  The "
+"basin supports more than \n"
+"14 million people in areas of Botswana, Mozambique, South Africa and "
+"Zimbabwe. Rainfall is \n"
+"highly variable with little run-off available in many parts of the basin to "
+"produce \n"
+"crops and livestock (<a href='http://waterandfood.org/basins/limpopo-2/' "
+"target='_blank'>CPWF 2013</a>). \n"
+"Annual average rainfall distribution ranges from 200 mm to 1200 mm, with an "
+"average of 530 mm per annum. \n"
+"Potential evaporation ranges from 800 mm to 2400 mm per annum. The Limpopo "
+"basin is a relatively dry basin \n"
+"with most of the water in the highly productive areas already used for "
+"irrigation. \n"
+"Irrigated agricultural covers 244 000 ha, with the potential for a further "
+"122 000 ha \n"
+"in selected sub-catchments. Dryland or rain-fed agriculture includes crop "
+"production (234 000 ha), \n"
+"pastures (1 780 000 ha) and forestry (455 000 ha) (<a href='http://www.arc."
+"agric.za/limpopo/profile.htm' target='_blank'>ARC 2013</a>). \n"
+"Prolonged dry spells are common, making rainfed farming in many areas "
+"difficult, while occasional high rainfall events result in uncontrolled \n"
+"flooding (<a href='http://waterandfood.org/basins/limpopo-2/' "
+"target='_blank'>CPWF 2013</a>). \n"
+"<a href='#'>Read More</a>"
+msgstr ""
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:394
+msgid ""
+"* While TAGMI for the Limpopo Basin covers all countries, \n"
+"it is primarily driven by available data and learning events undertaken in "
+"Zimbabwe and South Africa. \n"
+"Data for Mozambique and Botswana are derived from publicly available global "
+"data sets."
+msgstr ""
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:412
+msgid ""
+"Conservation Agriculture (CA) is an approach to managing \n"
+"agro-ecological systems. It is designed to enable sustainable and profitable "
+"agriculture while \n"
+"improving farmers' livelihoods. It is governed by three CA principles: 1) "
+"continuous and minimal soil disturbance, \n"
+"2) permanent (organic) soil cover and 3) crop diversification and rotation. "
+"CA is scalable, \n"
+"its principles universally applicable to all agircultural agricultural "
+"landscapes but its \n"
+"adoption is arguably most urgently required by smallholder farmers. "
+"Introducing CA requires \n"
+"that farmeers accept a change in their existing crop management system, "
+"employ technologies \n"
+"that help manage cover crops, and adopt a new way of thinking with respect "
+"to weed management \n"
+"and livestock/cropping interactions. <a href='http://www.fao.org/ag/ca/' "
+"target='_blank'>More info from the FAO</a>"
+msgstr ""
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:427
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:180
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:173
+msgid "Small scale irrigation"
+msgstr "l’Irrigation à petite échelle"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:429
+msgid ""
+"These are irrigation systems that \n"
+"are developed, owned or managed by individual farmers. They buy or rent "
+"irrigation equipment \n"
+"and draw water from nearby sources without depending on public agencies or "
+"Water Users' \n"
+"Associations, for example. In many African countries the smallholder private "
+"irrigation \n"
+"sector is more important than public irrigation in terms of the number of "
+"farmers involved \n"
+"and the value of the production. <a href='http://awm-solutions.iwmi.org/"
+"small-private.aspx' target='_blank'>More info from IWMI</a>"
+msgstr ""
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:449
+msgid ""
+"In most of Sub-Saharan Africa, small reservoirs \n"
+"are earthen or cement dams that are less than 7.5 meters high. They provide "
+"significant \n"
+"opportunities for soil and water conservation, drought proofing and for "
+"developing small-scale, \n"
+"community-based irrigation schemes. A well-designed reservoir can support "
+"multiple water uses \n"
+"from livestock watering, fisheries, domestic and small business water use to "
+"brick making and handicraft activities. \n"
+"<a href='http://awm-solutions.iwmi.org/small-reservoirs.aspx' "
+"target='_blank'>More info from IWMI</a>"
+msgstr ""
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:462
+msgid "The Project Team"
+msgstr "De l’équipe"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:465
+msgid ""
+"<a href='mailto:jennie.barron@sei-international.org'>Dr Jennie Barron</a> \n"
+"is a research fellow in agriculture and water management at the \n"
+"<a href='http://www.sei-international.org/staff?staffid=16' "
+"target='_blank'>Stockholm Environment Institute</a> and affiliated to \n"
+"<a href='http://www.stockholmresilience.org/contactus/staff/"
+"barron.5.3ebb718712ed6075a6780005576.html' target='_blank'>Stockholm "
+"Resilience Centre</a>. \n"
+"Her research is focussed on agriculture, water management and ecosystem "
+"servcies in the field to meso-scale \n"
+"landscapes for food production, livelihood improvements and agro-ecosystems "
+"sustainability. \n"
+"Dr. Barron is the theme leader of Managing Environmental Systems. SEI is the "
+"institutional coordinator \n"
+"for the V1 and L1 projects. The project has been carried out in close "
+"collaboration with the other CPWF BDC projects (V2-V5 and L2-L5) \n"
+"with the support of the respective BDC Leaders : Olufunke Cofie (Volta) and "
+"Amy Sullivan (Limpopo). "
+msgstr ""
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:475
+msgid "Volta Basin Research Partners"
+msgstr "Partenaires de recherche dans le bassin de la Volta"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:477
+msgid "Institut National de l’Environnement et de Recherches Agricoles (INERA)"
+msgstr ""
+"Institut National de l’Environnement et de Recherches Agricoles (INERA)"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:478
+msgid ""
+"Civil Engineering Dept. of the Kwame Nkrumah University of Science and "
+"Technology (KNUST)"
+msgstr ""
+"Civil Engineering Dept. of the Kwame Nkrumah University of Science and "
+"Technology (KNUST)"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:479
+msgid ""
+"Savanna Agricultural Research Institute of the Council for Scientific and "
+"Industrial Research, Ghana (CSIR-SARI)"
+msgstr ""
+"Savanna Agricultural Research Institute of the Council for Scientific and "
+"Industrial Research, Ghana (CSIR-SARI)"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:480
+msgid "Département de Géographie de l’Université de Ouagadougou"
+msgstr "Département de Géographie de l’Université de Ouagadougou"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:482
+msgid "Limpopo Basin Research Partners"
+msgstr "Partenaires de recherche dans le bassin de la Limpopo"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:484
+msgid "WaterNet"
+msgstr "WaterNet"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:485
+msgid "University of Witwatersrand"
+msgstr "University of Witwatersrand"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/about.php:486
+msgid "International Water Management Institute-South Africa"
+msgstr "International Water Management Institute-South Africa"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:121
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:127
+msgid "User tips"
+msgstr "Conseils d’utilisation"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:123
+msgid ""
+"Choose a <a id='tooltip-technology' \n"
+"href='#' data-toggle='tooltip' title='<b>Conservation Agriculture</b> is an "
+"approach to \n"
+"managing agro-ecological systems. It is designed to enable sustainable and "
+"profitable \n"
+"agriculture while improving farmers&#39; livelihoods.<br/>\n"
+"<b>Small scale irrigation</b> systems \n"
+"are developed, owned or managed by individual farmers.<br/>\n"
+"<b>Small reservoirs</b> are earthen or cement dams that are less than 7.5 "
+"meters \n"
+"high. They provide significant opportunities for soil and water "
+"conservation, drought \n"
+"proofing and for developing small-scale, community-based irrigation "
+"schemes.'>technology</a> \n"
+"and display resolution, then click <b>RUN</b> for the map to display the "
+"modelled \n"
+"likelihood of success of a project implementing the chosen technology."
+msgstr ""
+"Choississez une <a id='tooltip-technology' \n"
+"href='#' data-toggle='tooltip' title='<b>Conservation Agriculture</b> is an "
+"approach to \n"
+"managing agro-ecological systems. It is designed to enable sustainable and "
+"profitable \n"
+"agriculture while improving farmers&#39; livelihoods.<br/>\n"
+"<b>Small scale irrigation</b> systems \n"
+"are developed, owned or managed by individual farmers.<br/>\n"
+"<b>Small reservoirs</b> are earthen or cement dams that are less than 7.5 "
+"meters \n"
+"high. They provide significant opportunities for soil and water "
+"conservation, drought \n"
+"proofing and for developing small-scale, community-based irrigation "
+"schemes.'>technologie</a> et résolution, alors cliquez sur <b>Exécuter</b> "
+"et la carte affichera les chances de succès modelisées d’un projet "
+"exploitant la technologie choisie."
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:134
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:148
+msgid "If the map is slow to load, reduce the resolution."
+msgstr "Si le chargement de la carte est lent, réduisez la résolution."
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:137
+msgid "Explore individual country model attributes: "
+msgstr "Explorez les caractérisques du model de chaques pays: "
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:150
+msgid "Volta basin overview"
+msgstr "Vue d'ensemble du Bassin de la Volta"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:150
+msgid "Limpopo basin overview"
+msgstr "Vue d'ensemble du Bassin de la Limpopo"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:151
+msgid ""
+"The map conveys the likelihood that a project \n"
+"introducing a new agricultural water management (AWM) technology in a "
+"particular \n"
+"district will successfully lead to long-term adoption of the selected "
+"technology, \n"
+"based on the social and bio-physical context embedded in country-level "
+"Bayesian network \n"
+"models. The resulting likelihood of success for each district reflects how "
+"the \n"
+"variables interact and affect the enabling conditions for technology "
+"adoption. \n"
+"The tool <i>only</i> incorporates districts that fall wholly or partly "
+"within the basin (red outline)."
+msgstr ""
+"La carte visualise les résultats du modèle, mettant ainsi en evidence la "
+"probabilité qu’une intervention technologique de GEA introduite dans une "
+"communauté  cible sera toujours utilisée deux ans après la fin de "
+"l’intervention du projet, en se basant sur un ensemble de facteurs "
+"spécifiques à chaque pays tels que les facteurs socio-économiques, "
+"biophysiques, institutionnels et culturels. Le résultat, ‘la probabilité de "
+"succès’, pour chaque commune reflète que le succès d’un intervention dépend "
+"de l’interaction et de la combinaison de plusieurs facteurs. L’outil inclut "
+"<i>uniquement</i> les communes au sein du Bassin de la Volta (le contour du "
+"bassin en rouge). "
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:158
+msgid ""
+"A range of socio-economic, biophysical, institutional \n"
+"and cultural factors inherent to the basin countries has been embedded in "
+"the country model \n"
+"(<a href='about.php'>read more about the model's parameters</a>). Other "
+"factors equally, \n"
+"if not more, important to the success of a technology relate to 'Best "
+"practices of \n"
+"implementation' of the project, and are in the implementers’ control and "
+"thus, \n"
+"not included in the model. More information on these best practices of "
+"implementation \n"
+"and their impact on the likelihood of success can be found under <a "
+"href='documentation.php'>Documentation</a>. \n"
+"More information on the Basin itself can be found under <a href='about."
+"php'>About</a>."
+msgstr ""
+"Le modèle utilise un ensemble de facteurs spécifiques à chaque pays tels que "
+"les facteurs socio-économiques, biophysiques, institutionnels et culturels "
+"(<a href='about.php'>lire plus des informations sur les paramètres du "
+"modèle</a>). D’autres facteurs également importants, ou peut être même plus "
+"importants pour le succès d’une technologie sont liés aux « meilleures "
+"pratiques de mise en oeuvre » sous le contrôle des acteurs de mise en "
+"oeuvre. Même si ces facteurs ne sont pas directement modélisés, la <a "
+"href='documentation.php'>Documentation</a> donne plus de détails sur ces "
+"meilleures pratiques. Plus des informations sur le Bassin de la Volta se "
+"trouve sous <a href='about.php'>A propos</a>."
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:166
+msgid "Note: details of data is available through the country level tools."
+msgstr ""
+"NB: détails sur les données sont disponibles au niveau de pays dans l'outil."
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:177
+msgid "Technology: "
+msgstr "Technologie"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:179
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:172
+msgid "Soil water conservation"
+msgstr "Conservation de l'Eau et des Sols"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:179
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:172
+msgid "Conservation agriculture"
+msgstr "Agriculture de conservation"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:181
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:174
+msgid "Small reservoirs"
+msgstr "Petits réservoirs"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:184
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:177
+msgid "Resolution:"
+msgstr "Résolution:"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:186
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:179
+msgid "High (slower download)"
+msgstr "Haute (téléchargement lent)"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:187
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:180
+msgid "Medium"
+msgstr "Moyenne"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:188
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:181
+msgid "Low (faster download)"
+msgstr "Basse (téléchargement rapide)"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:190
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:183
+msgid "Key: L - Low, M - Medium, H -High"
+msgstr "La légende: F- Faible, M - Moyenne, G - Grande "
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:194
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:187
+msgid "Probability of success"
+msgstr "Probabilités de succès"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:197
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:190
+msgid "L"
+msgstr "F"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:198
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:191
+msgid "M"
+msgstr "M"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:199
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:192
+msgid "H"
+msgstr "G"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:208
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:201
+msgid "Strength of evidence is <b>LOW</b>"
+msgstr "La qualité des preuves est <b>faible</b>"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:208
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:201
+msgid ""
+"This reflects an assessment \n"
+"of the quality of the data underlying the model’s result. For example, \n"
+"if data is old, or available at a coarser geographic coverage or scale \n"
+"of analysis than the model is at (district-level), the evidence base for \n"
+"the result is weak, and the strength of evidence will be LOW. Low strength \n"
+"of evidence can also reflect an uncertainty in how well the data used is "
+"related \n"
+"to the concept it describes.  Alternatively, if the data is recent, \n"
+"consistently representative across the country, at district level and \n"
+"highly relevant for all factors in the model, the evidence base for the \n"
+"result is strong and the strength of evidence will be HIGH."
+msgstr ""
+"Ceci reflète une évaluation de la qualité des données sous-jacentes aux "
+"résultats du model. Par exemple, si les données sont anciennes, ou "
+"disponibles à une couverture géographique ou à une échelle d’analyse plus "
+"grossière que le model l’est au niveau communal, alors la base de données "
+"utilisée comme preuve pour le résultat est pauvre, et la qualité/solidité "
+"des preuves sera FAIBLE. Une faible qualité des preuves peut aussi refléter "
+"une incertitude sur la manière dont les données utilisées sont reliées au "
+"concept qu’elles décrivent. En revanche, si les données sont récentes et "
+"uniformément représentatives au niveau communal et à travers tout le pays, "
+"et qu’elles sont très pertinentes pour chaque facteurs du model, la base de "
+"données utilisée comme preuve pour le résultat est riche et la qualité des "
+"preuves sera GRANDE. "
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:217
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:210
+msgid "Why?"
+msgstr "Pourquoi ?"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/basin.php:218
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:213
+msgid "Run"
+msgstr "Exécuter"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:102
+msgid "User Manual"
+msgstr "Guide d'utilisateur"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:103
+msgid ""
+"Brief introduction to Bayes networks and the background to the tool, \n"
+"followed by a step-by-step description of how to use the tool and what the "
+"various components mean."
+msgstr ""
+" Une bref introduction aux réseaux de Bayes et un historique de l’Outil, "
+"suivie par une description étapes par étapes de comment utiliser l’Outil "
+"ainsi que de la signification des différents composants (disponible en "
+"anglais uniquement)."
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:107
+msgid "Glossary (Available in English)"
+msgstr "Glossaire (disponible en anglais uniquement)"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:110
+msgid "Technical Document"
+msgstr "Document technique"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:111
+msgid ""
+"Details of the technical components of the tool, including parameters of the "
+"Bayes network (Available in English)"
+msgstr ""
+"détails des composants techniques de l’Outil, incluant les paramètres du "
+"réseaux de Bayes (disponible en anglais uniquement)"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:114
+msgid "Meta-data"
+msgstr "Métadonnées"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:115
+msgid "Volta basin"
+msgstr "Bassin de la Volta"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:116
+msgid "Limpopo basin"
+msgstr "Bassin du Limpopo"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:118
+msgid "Details of data layers used in the tool (Available in English)"
+msgstr ""
+"Détails sur les données calques utilisées dans l’Outil (Disponible en "
+"anglais)"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:126
+msgid "TAGMI Fact Sheet"
+msgstr "Fiche d'information sur le TAGMI"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:131
+msgid "1 page outline of the TAGMI tool's aim, principles and functionality"
+msgstr ""
+"Un bref compte-rendu de l'objectif, les principes et la fonctionnalité de "
+"l'outil TAGMI"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:135
+msgid "TAGMI Information Brief"
+msgstr "Brochure sur le TAGMI"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:140
+msgid "4 page introduction to the TAGMI tool’s rationale, development and use"
+msgstr ""
+"Introduction à la raisonnement, le développement et l'utilisation de l'outil "
+"TAGMI en 4 pages"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:144
+msgid "TAGMI model networks - Limpopo"
+msgstr "Les réseaux des modèles de TAGMI - Limpopo"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:148
+msgid ""
+"images of the Bayesian networks for each technology in the Limpopo Basin"
+msgstr ""
+"l’images des réseaux bayésiens pour chaque technologie dans le Bassin de la "
+"Limpopo"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:152
+msgid "TAGMI model networks - Volta"
+msgstr "Les réseaux des modèles de TAGMI - Volta"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:157
+msgid "images of the Bayesian networks for each technology in the Volta Basin"
+msgstr ""
+"l’images des réseaux bayésiens pour chaque technologie dans le Bassin de la "
+"Volta"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:166
+msgid ""
+"Kemp-Benedict, E. (2010) Converting qualitative assessments to quantitative "
+"assumptions: \n"
+"Bayes' rule and the pundit's wager. Technological Forecasting and Social "
+"Change 77(1): 167-171"
+msgstr ""
+"Kemp-Benedict, E. (2010) Converting qualitative assessments to quantitative "
+"assumptions: \n"
+"Bayes' rule and the pundit's wager. Technological Forecasting and Social "
+"Change 77(1): 167-171"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:168
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:174
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:179
+msgid "Also available at"
+msgstr "Aussi disponible à"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:171
+msgid ""
+"Eric Kemp-Benedict, Sukaina Bharwani, Elnora de la Rosa, \n"
+"Chayanis Krittasudthacheewa, Nilufar Matin (2009). Assessing Water-related "
+"Poverty Using \n"
+"the Sustainable Livelihoods Framework, SEI Working Paper"
+msgstr ""
+"Eric Kemp-Benedict, Sukaina Bharwani, Elnora de la Rosa, \n"
+"Chayanis Krittasudthacheewa, Nilufar Matin (2009). Assessing Water-related "
+"Poverty Using \n"
+"the Sustainable Livelihoods Framework, SEI Working Paper"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:177
+msgid ""
+"Kemp-Benedict, E. (2008) Elicitation \n"
+"Techniques for Bayesian Network Models. SEI Working Paper WP-US-0804"
+msgstr ""
+"Kemp-Benedict, E. (2008) Elicitation \n"
+"Techniques for Bayesian Network Models. SEI Working Paper WP-US-0804"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:182
+msgid ""
+"MERIT. (2005). Guidelines for the Use of Bayesian \n"
+"Networks as a Participatory Tool for Water Resource Management: Based on the "
+"Results of \n"
+"the MERIT Project. Wallingford, UK: Centre for Ecology and Hydrology for the "
+"Management \n"
+"of the Environment and Resources using Integrated Techniques (MERIT) Project"
+msgstr ""
+"MERIT. (2005). Guidelines for the Use of Bayesian \n"
+"Networks as a Participatory Tool for Water Resource Management: Based on the "
+"Results of \n"
+"the MERIT Project. Wallingford, UK: Centre for Ecology and Hydrology for the "
+"Management \n"
+"of the Environment and Resources using Integrated Techniques (MERIT) Project"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:188
+msgid ""
+"Diez, F.J. and Druzdzel, M.J. (2007) Canonical \n"
+"Probabilistic Models for Knowledge Engineering Technical Report "
+"CISIAD-06-01. \n"
+"Version 0.9 (April 28, 2007)."
+msgstr ""
+"Diez, F.J. and Druzdzel, M.J. (2007) Canonical \n"
+"Probabilistic Models for Knowledge Engineering Technical Report "
+"CISIAD-06-01. \n"
+"Version 0.9 (April 28, 2007)."
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/documentation.php:191
+msgid "Available at"
+msgstr "Aussi disponible à"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:102
+msgid ""
+"The <b>Targeting AGwater Management Interventions (TAGMI)</b> \n"
+"is a decision support tool that facilitates targeting and scaling-out of "
+"three different \n"
+"Agricultural Water Management (AWM) technologies in the Limpopo and the "
+"Volta River Basins. \n"
+"This online tool displays the output of a Bayesian network model that "
+"assesses the influence \n"
+"of social and bio-physical factors on the likelihood of success of "
+"implementing different \n"
+"<a href=\"about.php#awm-technologies\">AWM technologies</a>. The Bayesian "
+"network model \n"
+"was developed iteratively, in collaboration with local researchers and "
+"experts, \n"
+"and merges knowledge pools from technical experts to local agriculture "
+"extension agents \n"
+"(<a href=\"about.php#consulation-process\">read more about the consultation "
+"process</a>)."
+msgstr ""
+"<b>L’outil de ciblage des interventions de gestion de l’eau agricole (TAGMI)"
+"</b> est un outil d’aide à la prise de décision faciliter le ciblage et la "
+"dissémination de trois différentes interventions technologiques de Gestion "
+"de l’eau agricole (GEA) dans les bassins de Limpopo et de la Volta. L’outil "
+"Web affiche le résultat d’un modèle de réseau bayésien qui évalue "
+"l’influence des facteurs sociaux et biophysiques sur la probabilité de "
+"succès de la mise en œuvre des différentes <a href=\"about.php#awm-"
+"technologies\">interventions de GEA</a>. Le modèle de réseau bayésien se "
+"base sur les discussions des participants des consultations et les "
+"expériences combinées des chercheurs en sciences naturelles et sociales du "
+"CPWF-BDC ainsi que des praticiens. (<a href=\"about.php#consulation-process"
+"\">Lire plus sur le processus de consultation</a>). "
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:112
+msgid ""
+"<b>TAGMI</b> displays spatially explicit \n"
+"model results at the district scale, based on available data, to determine "
+"which \n"
+"districts may be better suited than others for a particular technological "
+"intervention \n"
+"in Volta and Limpopo Basin countries. TAGMI helps to answer the question: "
+"<i>will an \n"
+"intervention successfully applied in one location have a reasonable chance "
+"of success at other locations?</i> \n"
+"The answer, provided with a measurable degree of certainty, suggests a way "
+"forward for scaling-out AWM interventions."
+msgstr ""
+"<b>TAGMI</b> visualise sur une carte les résultats du modèle, en utilisant "
+"les données disponibles à l’échelle d’une commune, mettant ainsi en évidence "
+"les différences spatiales dans la probabilité que les interventions puissent "
+"être adoptés avec succès dans les communes indiquées, pour chaque pays dans "
+"les Bassins de la Volta et de la Limpopo. TAGMI contribue à répondre à la "
+"question : <i>« Y’a-t-il une chance acceptable qu’une intervention en GEA "
+"dite réussie dans une localité donnée puisse être dupliquée avec succès dans "
+"une autre localité ? »</i> "
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:120
+msgid ""
+"<b>TAGMI Assesses the Likelihood of Success</b>. \n"
+"The tool models the relationship between social and bio-physical factors and "
+"successful \n"
+"implementation and long-term adoption of agricultural water management "
+"technologies. \n"
+"It is intended for non-technological expert users who want to know which "
+"parts of the \n"
+"river basins have conditions suitable for successful implementation of a "
+"planned AWM \n"
+"intervention. For more detailed information about using the tool see the <a "
+"href='document/User%20Manual_25May.pdf' target='_blank'>User Manual</a>."
+msgstr ""
+"<b>TAGMI évalue la probabilité de succès.</b> L’outil décrit la relation "
+"entre les facteurs sociaux et biophysiques et le mise en oeuvre réussie et "
+"l’adoption à long-terme des technologies de GEA. C’est destiné aux non "
+"experts qui veulent savoir quelles parties d’une région remplissent les "
+"conditions sociales, humaines et naturelles pour faciliter le succès d’une "
+"intervention en GEA envisagée. <a href='document/User%20Manual_25May.pdf' "
+"target='_blank'>Le Guide d'Utilisateur</a> donne plus de détails sur "
+"l’utilisation de l’outil."
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:128
+msgid ""
+"<b>It is Science Based</b>. Taking social \n"
+"and human resources into account reflects the fact that there are further "
+"enabling \n"
+"conditions required beyond the purely bio-physical conditions that dictate "
+"whether \n"
+"or not a technology is appropriate for introduction. The conceptual "
+"framework for the\n"
+"Bayes model is informed by the Sustainable Livelihoods Framework (DFID "
+"1999). For \n"
+"more detailed information about the Bayes model behind the tool see the "
+"<a>Model Technical Documentation</a>"
+msgstr ""
+"<b>TAGMI se base dans la science</b>. Le TAGMI pilote l’intégration de "
+"diverses sources de connaissance et expertise. Il complète des facteurs "
+"d’adéquation biophysiques à des facteurs socio-économiques en utilisant le "
+"Cadre d’analyse des moyens de subsistance durables du Department for "
+"International Development (Agence pour le développement international) du "
+"royaume –uni (DFID, 1999). Cela va renforcer la nature holistique du modèle "
+"et permettre des décisions informées sur comment mettre en oeuvre une "
+"intervention, en l’occurrence s’il est nécessaire d’établir un sens "
+"communautaire afin de s’assurer du succès de la mise en oeuvre de "
+"l’intervention. Pour les informations plus détaillées sur les modèles de "
+"réseau bayésien, voir <a>le Document Technique</a>."
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:136
+msgid ""
+"<b>It is Evidence Based</b>. The Bayesian network \n"
+"model makes use of available data on key characteristics in a systematic way "
+"to \n"
+"suggest the likelihood of success of an intervention. It estimates how "
+"different \n"
+"contextual factors interact to influence success. This model and tool are "
+"based \n"
+"on the premise that, while absolute certainty is unobtainable, degrees of "
+"certainty \n"
+"are both obtainable and useful when using the available information in a "
+"systematic way."
+msgstr ""
+"<b>TAGMI tient compte des preuves.</b> L’outil calculer le degré de "
+"certitude avec laquelle le modèle a calculé la probabilité de succès, en "
+"évaluant la « solidité de l’évidence », ce qui permet de se donner une idée "
+"sur la qualité des connaissances et des données qui sous-tendent la "
+"probabilité de succès calculée. Les prédictions issues du modèle ne sont pas "
+"meilleures que les données qui ont servi à l’alimenter. Il tient compte du "
+"fait que la certitude ne peut être totale mais que des degrés de certitude "
+"peuvent être atteints et s’avèrent utiles."
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:149
+msgid "Visit the Volta basin"
+msgstr "Visite du bassin de la Volta"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:157
+msgid "Visit the Limpopo basin"
+msgstr "Visite du bassin du Lompopo"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/index.php:167
+msgid ""
+"This tool was developed as part of the 3-year \n"
+"CGIAR Challenge Program on Water and Food's Volta and Limpopo Basin "
+"Development \n"
+"Challenges (<a href='about.php'>About</a>)."
+msgstr ""
+"Le TAGMI est le fruit de trois années de recherche pour le développement "
+"menée dans le cadre des programmes de défis pour le développement des "
+"bassins entrepris par le Challenge Program du CGIAR (Groupe consultatif sur "
+"la recherche agricole internationale) (<a href='about.php'>A propos</a>)."
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:129
+msgid ""
+"Choose a <a id='tooltip-technology' \n"
+"href='#' data-toggle='tooltip' title='<b>Conservation Agriculture</b> is an "
+"approach to \n"
+"managing agro-ecological systems. It is designed to enable sustainable and "
+"profitable \n"
+"agriculture while improving farmers&#39; livelihoods.<br/>\n"
+"<b>Small scale irrigation</b> systems \n"
+"are developed, owned or managed by individual farmers.<br/>\n"
+"<b>Small reservoirs</b> are earthen or cement dams that are less than 7.5 "
+"meters \n"
+"high. They provide significant opportunities for soil and water "
+"conservation, drought \n"
+"proofing and for developing small-scale, community-based irrigation schemes."
+"<br/><br/>\n"
+"Time and data do not allow TAGMI to model ­all AWM technologies nor does it "
+"assume \n"
+"that those modeled are the most critical technologies. The three selected "
+"are meant \n"
+"to represent the spectrum from rainfed to irrigated; as well as from "
+"community-level \n"
+"technology (storage), to more individual farm-level technologies (soil-water "
+"conservation \n"
+"and certain irrigation technologies):<br/>\n"
+"1. Conservation Agriculture (Soil and Water Conservation technologies, "
+"Rainfed)<br/>\n"
+"2. Small scale irrigation (Individual irrigation technologies)<br/>\n"
+"3. Small Reservoirs (Storage technologies, community irrigation from stored "
+"water)'>technology</a> \n"
+"and display resolution, then click <b>RUN</b> for the map to display the "
+"modelled \n"
+"likelihood of success of a project implementing the chosen technology."
+msgstr ""
+"Choississez une <a id='tooltip-technology' \n"
+"href='#' data-toggle='tooltip' title='<b>Conservation Agriculture</b> is an "
+"approach to \n"
+"managing agro-ecological systems. It is designed to enable sustainable and "
+"profitable \n"
+"agriculture while improving farmers&#39; livelihoods.<br/>\n"
+"<b>Small scale irrigation</b> systems \n"
+"are developed, owned or managed by individual farmers.<br/>\n"
+"<b>Small reservoirs</b> are earthen or cement dams that are less than 7.5 "
+"meters \n"
+"high. They provide significant opportunities for soil and water "
+"conservation, drought \n"
+"proofing and for developing small-scale, community-based irrigation "
+"schemes.'>technologie</a> et résolution, alors cliquez sur <b>Exécuter</b> "
+"et la carte affichera les chances de succès modelisées d’un projet "
+"exploitant la technologie choisie."
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:149
+msgid "Basin outline shown in red."
+msgstr "Le contour du bassin est affiché en rouge."
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:157
+msgid "Country:"
+msgstr "Pays:"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:170
+msgid "Technology:"
+msgstr "Technologie:"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:218
+msgid "View results in table"
+msgstr "Voir le tableau des résultats"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:219
+msgid "Download results"
+msgstr "Télécharger les résultats"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:236
+msgid "Attributes to display"
+msgstr "Caractéristiques à afficher"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:237
+msgid ""
+"Tick the boxes below to display the selected information for each district "
+"when clicking on the map"
+msgstr ""
+"Cochez la case ci-dessus pour afficher l’information selectionée pour chaque "
+"commune selectionée sur la carte."
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:241
+#: C:\Users\Joanne\Dropbox\targoutscaling/config/dataSets.php:47
+msgid "Total population"
+msgstr "Population totale"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:245
+#: C:\Users\Joanne\Dropbox\targoutscaling/config/dataSets.php:48
+msgid "Mean annual rainfall (mm)"
+msgstr "Précipitations annuelle moyenne (mm)"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:249
+#: C:\Users\Joanne\Dropbox\targoutscaling/config/dataSets.php:49
+msgid "Total cropland area (ha)"
+msgstr "Les terres cultivées (ha)"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:253
+#: C:\Users\Joanne\Dropbox\targoutscaling/config/dataSets.php:50
+msgid "Poverty level (%)"
+msgstr "Niveau de pauvreté (%)"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:257
+#: C:\Users\Joanne\Dropbox\targoutscaling/config/dataSets.php:51
+msgid "Food security (%)"
+msgstr "Sécurité alimentaire"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:261
+#: C:\Users\Joanne\Dropbox\targoutscaling/config/dataSets.php:46
+msgid "District"
+msgstr "Commune"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:269
+msgid "Model customisation"
+msgstr "Personnaliser le model"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:276
+msgid "Include following model customisation in calculation."
+msgstr "Inclure les personalisations suivantes dans le calcul."
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:278
+msgid "Reset to default settings"
+msgstr "Remettez à défaut"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:283
+msgid "Capital"
+msgstr "Capital"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:284
+msgid "Factor"
+msgstr "Facteur"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:285
+msgid "Data"
+msgstr "Données"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/tool.php:286
+msgid "Bayesian network image"
+msgstr "L'Images des réseaux bayésiens"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/config/checklist.php:21
+msgid "Ensure ownership by the community"
+msgstr "Avez l'appropriation par la communauté"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/config/checklist.php:22
+msgid "Engage the community at the start of the project"
+msgstr "Engagez la communauté au début du projet"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/config/checklist.php:23
+msgid "Provide follow-up support after the project"
+msgstr "Engagez la communauté après le fini du projet"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/config/checklist.php:24
+msgid "Ensure the community is aware of the benefits"
+msgstr "Assurez que la communauté est conscient des avantages"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/config/checklist.php:25
+msgid "Evaluate community needs"
+msgstr "Evaluez les besoins de la communauté"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/config/checklist.php:26
+msgid "Does the community know the implementer?"
+msgstr "Avez-vous rendre visite a la communauté avant?"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/config/checklist.php:27
+msgid "Ensure that the technology is affordable"
+msgstr "Assurez que  la technologie est abordable"
+
+#: C:\Users\Joanne\Dropbox\targoutscaling/config/checklist.php:28
+msgid "Ensure that the technology is available"
+msgstr "Assurez que  la technologie est disponible"
+
+#~ msgid "Fiche d'information sur le TAGMI (French)"
+#~ msgstr "Fiche d'information sur le TAGMI (French)"
+
+#~ msgid "Irrigation"
+#~ msgstr "Irrigation"
+
+#~ msgid "Glossary"
+#~ msgstr "Glossary"
+
+#~ msgid "Vola Basin"
+#~ msgstr "Bassin de la Volta"
+
+#~ msgid "Show strength of evidence"
+#~ msgstr "Force de la preuve"
+
+#~ msgid "Low"
+#~ msgstr "Bas"
+
+#~ msgid "Med"
+#~ msgstr "Moyenne"
+
+#~ msgid "High"
+#~ msgstr "Haut"
+
+#~ msgid "Weak"
+#~ msgstr "Faible"
+
+#~ msgid "Moderate"
+#~ msgstr "Modéré"
+
+#~ msgid "Strong"
+#~ msgstr "Fort"
+
+#~ msgid "No"
+#~ msgstr "Non"
+
+#~ msgid "Yes"
+#~ msgstr "Oui"
+
+#~ msgid "Checklist"
+#~ msgstr "Liste de contrôle"
+
+#~ msgid "Intervention"
+#~ msgstr "Intervention"
