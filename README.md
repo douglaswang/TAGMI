@@ -25,4 +25,4 @@ When the Model Customisation pane is engaged (by ticking the box ‘Include foll
 
 The default model is in /config.
 ## 
-how the customisation pane links to the
+
